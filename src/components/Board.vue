@@ -8,4 +8,20 @@
 </template>
 
 <script>
+
+
+export default {
+ props:['id'],
+ methods:{
+     drop(){
+     
+     }
+ }
+}
 </script>
+
+<style>
+
+</style>
+
+
